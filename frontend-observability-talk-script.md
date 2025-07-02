@@ -4,11 +4,11 @@
 
 **[SLIDE 1: Title]**
 
-Good [morning/afternoon], everyone! Welcome to our Frontend Observability Odyssey. 
+Good evening, everyone! I welcome you all to my talk Frontend Observability Odyssey. 
 
 *[Pause for effect]*
 
-Today, we're going on a journey—not through space, but through the complex world of monitoring, telemetry, and real-world debugging. By the end of this talk, you'll understand how to build truly resilient frontend applications that can tell you exactly what's wrong when things go sideways.
+Today, we're going on a journey, through the complex world of monitoring, telemetry, and real-world debugging. By the end of this talk, you'll understand how to build truly resilient frontend applications that can tell you exactly what's wrong when things go sideways.
 
 **[SLIDE 2: About Me]**
 

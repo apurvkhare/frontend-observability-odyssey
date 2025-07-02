@@ -1,6 +1,6 @@
 ---
 theme: seriph
-background: ./frontendObservabilityOdessy.png
+background: /frontendObservabilityOdessy.png
 title: Frontend Observability Odyssey
 info: |
   ## Frontend Observability Odyssey
@@ -1241,35 +1241,43 @@ layout: center
 
 <div class="text-left max-w-2xl mx-auto mt-8 space-y-6">
 
-<div v-click class="flex items-start gap-4">
-  <div class="text-3xl">🚨</div>
+<div class="flex items-start gap-4">
+  <div class="text-3xl">🚀</div>
   <div>
-    <div class="font-bold text-xl">Alerts save revenue</div>
-    <div class="text-gray-400">Catch critical issues before customers do</div>
+    <div class="font-bold text-xl">Frontend Observability is Business Critical</div>
+    <div class="text-gray-400">Rapidly detect and resolve issues, protecting revenue and user experience by understanding the chaotic frontend environment.</div>
   </div>
 </div>
 
-<div v-click class="flex items-start gap-4">
+<div class="flex items-start gap-4">
+  <div class="text-3xl">🛠️</div>
+  <div>
+    <div class="font-bold text-xl">The Four Pillars are Your Diagnostic Toolkit</div>
+    <div class="text-gray-400">Leverage Metrics, Events, Logs, and Traces to gain a comprehensive, deep understanding of *why* issues occur.</div>
+  </div>
+</div>
+
+<div class="flex items-start gap-4">
   <div class="text-3xl">👤</div>
   <div>
-    <div class="font-bold text-xl">Events reveal user intent</div>
-    <div class="text-gray-400">Track the journey, not just the destination - understand drop-offs and friction</div>
+    <div class="font-bold text-xl">Real User Monitoring (RUM) is a must</div>
+    <div class="text-gray-400">Measure actual user experiences to optimize performance and identify invisible errors that impact your users.</div>
   </div>
 </div>
 
-<div v-click class="flex items-start gap-4">
-  <div class="text-3xl">📊</div>
-  <div>
-    <div class="font-bold text-xl">Four pillars = complete picture</div>
-    <div class="text-gray-400">Metrics, Events, Logs, and Traces work together for full observability</div>
-  </div>
-</div>
-
-<div v-click class="flex items-start gap-4">
+<div class="flex items-start gap-4">
   <div class="text-3xl">🌐</div>
   <div>
-    <div class="font-bold text-xl">OpenTelemetry = Future-Proof</div>
-    <div class="text-gray-400">Vendor-neutral standards prevent lock-in and enable easy migration</div>
+    <div class="font-bold text-xl">Standardize telemetry with OpenTelemetry</div>
+    <div class="text-gray-400">Adopt vendor-neutral standards to ensure consistent, portable, and scalable observability across your entire stack.</div>
+  </div>
+</div>
+
+<div class="flex items-start gap-4">
+  <div class="text-3xl">🚨</div>
+  <div>
+    <div class="font-bold text-xl">Proactive Alerts Prevent Revenue Loss</div>
+    <div class="text-gray-400">Catch critical issues before they impact customers and breach SLAs.</div>
   </div>
 </div>
 
@@ -1299,20 +1307,23 @@ class: text-center
 ---
 
 <div class="flex justify-center gap-8 mt-12">
-  <a href="https://github.com" class="flex items-center gap-2">
-    <carbon-logo-github class="text-2xl" />
-    <span>GitHub</span>
+  <a href="https://www.youtube.com/whatthecodeacademy" target="_blank" class="flex items-center gap-2">
+    <carbon-logo-youtube class="text-2xl" />
+    <span>Youtube</span>
   </a>
-  <a href="https://twitter.com" class="flex items-center gap-2">
-    <carbon-logo-twitter class="text-2xl" />
+  <a href="https://x.com/khareapurv" target="_blank" class="flex items-center gap-2">
+    <carbon-logo-x class="text-2xl" />
     <span>Twitter</span>
   </a>
-  <a href="https://linkedin.com" class="flex items-center gap-2">
+  <a href="https://linkedin.com/in/apurvkhare" target="_blank" class="flex items-center gap-2">
     <carbon-logo-linkedin class="text-2xl" />
     <span>LinkedIn</span>
   </a>
 </div>
 
 <div class="mt-12 text-sm text-gray-400">
-  Slides at: github.com/yourusername/frontend-observability-odyssey
+  <div class="flex flex-col items-center">
+  <img src="/slidesQR.png" alt="QR Code for Slides" class="w-48 h-48" />
+  <div class="text-sm text-gray-400 mt-2">Scan for slides</div>
+</div>
 </div>
