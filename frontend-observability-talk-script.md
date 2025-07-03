@@ -350,13 +350,15 @@ Let's wrap up with the key takeaways:
 
 *[Click through each point]*
 
-First, alerts save revenue. Those 4 minutes we saved in our opening story? That's real money.
+First, **Frontend Observability is Business Critical**. Detect and resolve issues quickly, protecting revenue and user experience.
 
-Events reveal user intent. It's not about counting clicks—it's about understanding user journeys and friction points.
+Second, **The Four Pillars are Your Diagnostic Toolkit**. Metrics, Events, Logs, and Traces provide deep insights into *why* issues occur.
 
-The four pillars work together. Metrics show trends, events show behavior, logs show details, traces show flow. You need all four.
+Third, **Real User Monitoring (RUM) is Non-Negotiable**. Measure actual user experiences to optimize performance and find invisible errors.
 
-And OpenTelemetry future-proofs your observability. Invest once, use anywhere.
+Fourth, **Standardize with OpenTelemetry for Future-Proofing**. Use vendor-neutral standards for consistent, portable, and scalable observability.
+
+Finally, **Proactive Alerts Prevent Crises**. Catch critical issues before they impact customers and breach SLAs.
 
 **[SLIDE 33: Truly Observable]**
 
@@ -370,7 +372,7 @@ This is the gold standard. This is what we should all aim for.
 
 **[SLIDE 34: Contact]**
 
-Thank you! Find me on GitHub, Twitter, and LinkedIn. The slides and demo code are available at the repo link shown.
+Thank you! Find me on Youtube, Twitter, and LinkedIn. You can scan the QR code for the slides.
 
 Any questions?
 
